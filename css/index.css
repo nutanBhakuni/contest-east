@@ -9,6 +9,7 @@ body{
 	background-image: url('../compressed_page_assets/home page/homepage.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-color: #4987c6;
 	width: 100%;
 	min-height: 100vh;
 }
